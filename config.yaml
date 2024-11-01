@@ -1,0 +1,8 @@
+path: "D:/lucas/9 - estudos/STEPPS/papaya-counter/dataset"
+train: images/train
+val: images/val
+test: images/val
+
+# Classes
+names:
+  0: Papaya

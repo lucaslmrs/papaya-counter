@@ -1,0 +1,6 @@
+dataset/
+venv/
+testing_code/
+
+*.mp4
+*.pt
